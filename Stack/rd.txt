@@ -1,0 +1,2 @@
+//This is a stack build by class in C++
+//Need to be rebuild by template
